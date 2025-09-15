@@ -3,9 +3,9 @@
 // For Dropbox, you can make direct links end with `?dl=1` for direct download/media.
 window.APP_CONFIG = {
   artist: {
-    name: "Your Artist Name",
-    avatarUrl: "https://i.imgur.com/your-avatar.png",
-    bannerUrl: "https://i.imgur.com/your-banner.jpg"
+    name: "The Waverunners Collective",
+    avatarUrl: "https://i.imgur.com/Og3f4IL.png",
+    bannerUrl: "https://i.imgur.com/bfLcNWn.jpeg"
   },
   // List your release JSON files here (paths relative to this index.html)
   releases: [
