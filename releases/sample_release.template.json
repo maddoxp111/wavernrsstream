@@ -1,0 +1,16 @@
+{
+  "type": "single",
+  "title": "Example Single Title",
+  "releaseDate": "2025-12-31T23:59:00-06:00",
+  "coverUrl": "https://i.imgur.com/your-cover.jpg",
+  "tracks": [
+    {
+      "title": "Track One",
+      "audioUrl": "https://www.dropbox.com/s/yourfile1.mp3?dl=1"
+    },
+    {
+      "title": "Track Two",
+      "audioUrl": "https://www.dropbox.com/s/yourfile2.mp3?dl=1"
+    }
+  ]
+}
